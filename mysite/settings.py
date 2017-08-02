@@ -27,7 +27,7 @@ SECRET_KEY = 'xo$2+7&_+-)%%#s!ls(t8_1cei31iy_&htr(bj=836wl8nf1wc'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'evy_violette.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'evyviolette.pythonanywhere.com']
 
 
 # Application definition
